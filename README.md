@@ -1,2 +1,3 @@
-# awesome-metascience
-A curated list of awesome information regarding metascience
+# Awesome metascience
+
+A curated list of awesome information regarding metascience.
